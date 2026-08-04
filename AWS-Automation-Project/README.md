@@ -56,6 +56,6 @@ AWS_Automation_Project_Report.pdf
 
 Initial Windows EC2 instance successfully launched and configured.
 
-![EC2](screenshots/ec2-running.png)
+![EC2](01-ec2-running.png.png)
 
 
