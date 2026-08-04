@@ -51,3 +51,11 @@ Detailed project documentation is available in:
 AWS_Automation_Project_Report.pdf
 
 ## Screenshots
+
+### EC2 Instance Running
+
+Initial Windows EC2 instance successfully launched and configured.
+
+![EC2](screenshots/ec2-running.png)
+
+
