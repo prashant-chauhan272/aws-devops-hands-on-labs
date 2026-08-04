@@ -4,6 +4,5 @@ This repository contains hands-on AWS and DevOps labs completed as part of my Cl
 
 ## Current Labs
 
-- AWS-03-ALB-AutoScaling
-
+- AWS-Automation-Project
 More labs will be added regularly.
