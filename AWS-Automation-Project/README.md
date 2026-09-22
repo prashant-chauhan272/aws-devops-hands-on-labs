@@ -152,27 +152,25 @@ Scale-In
 ## 📸 Project Screenshots
 
 ### Auto Scaling Group
-![Auto Scaling Group](screenshots/04-auto-scaling-group.png)
+![Auto Scaling Group](screenshot/04-auto-scaling-group.png)
 
 ### Application Load Balancer
-![Application Load Balancer](screenshots/05-application-load-balancer.png)
+![Application Load Balancer](screenshot/05-application-load-balancer.png)
 
 ### Target Group
-![Target Group](screenshots/06-target-group.png)
+![Target Group](screenshot/06-target-group.png)
 
 ### CPU Stress Test
-![CPU Stress Test](screenshots/07-stress-test.png)
+![CPU Stress Test](screenshot/07-stress-test.png)
 
 ### Scale-Out
-![Scale-Out](screenshots/08-scale-out.png)
+![Scale-Out](screenshot/08-scale-out.png)
 
 ### Stop CPU Stress
-![Stop Stress](screenshots/09-stop-stress.png)
+![Stop Stress](screenshot/09-stop-stress.png)
 
 ### Scale-In
-![Scale-In](screenshots/10-scale-in.png)
-
----
+![Scale-In](screenshot/10-scale-in.png)
 
 ## 🎯 Key Learnings
 
